@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<storage-connection-string>",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "serviceBusConnectionString": "<service-bus-connection-string>",
+    "AzureFunctionsJobHost__retry__delayInterval": "00:00:30",
+    "queueName": "queue"
+  }
+}
